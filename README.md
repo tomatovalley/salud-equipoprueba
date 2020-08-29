@@ -1,4 +1,4 @@
-# Equipo TU_EQUIPO
+# Equipo HOla soy pedrito
 
 Aquí deberás escribir toda la información de tu proyecto.
 
